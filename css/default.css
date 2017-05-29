@@ -31,7 +31,7 @@ body{
 #gnav div.img {
     display: table-cell;
     vertical-align: middle;
-    background: url(../img/css_sprite.png) no-repeat;
+    background: url(../img/図1.png) no-repeat;
     width: 55px;
     height: 46px;
 }
