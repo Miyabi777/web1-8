@@ -12,9 +12,16 @@ body{
     background: darkgreen;
     color: white;
 }
+
 #gnav a:hover {
     background: lightgreen;
     color: black;
+}
+
+#gnav a.selected {
+    background: white;
+    color: darkgreen;
+    font-weight: bold;
 }
 #gnav ul{
     overflow: hidden;
